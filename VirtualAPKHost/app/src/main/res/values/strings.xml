@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VirtualAPKHost</string>
+    <string name="str_btn_load_plugin_a">加载插件A</string>
+    <string name="str_btn_load_plugin_b">加载插件B</string>
+</resources>
